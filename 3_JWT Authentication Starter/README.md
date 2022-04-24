@@ -1,4 +1,4 @@
-# CRUD using GraphQL and Django
+# JWT using GraphQL and Django
 
 Installation Instruction
 
